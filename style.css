@@ -15,3 +15,21 @@ body{
     height: 200px;
     border-radius: 7px 7px 0 0;
 }
+.card ul{
+    list-style: none;
+    padding: 0;
+}
+.card li{
+    background-color:aqua;
+    height: 20px;
+    width: 90%;
+    margin: 10px auto;
+}
+.card button{
+    width: 50%;
+    height: 50px;
+    border: none;
+    margin-left: 12px;
+    border-radius: 7px;
+    background-color: #808080;
+}
